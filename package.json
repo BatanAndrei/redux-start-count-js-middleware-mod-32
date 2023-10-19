@@ -1,0 +1,15 @@
+{
+  "name": "redux-start-count-js-middleware-mod-32",
+  "version": "1.0.0",
+  "description": "creating count on JS and creating middleware for stop him when value will be five",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batan Andrei",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.0",
+    "redux": "^4.2.1"
+  }
+}
